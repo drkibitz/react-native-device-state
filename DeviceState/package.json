@@ -1,0 +1,9 @@
+{
+  "name": "DeviceStateIOS",
+  "version": "0.0.1",
+  "author": "Dr. Kibitz <info@drkibitz.com>",
+  "description": "DeviceStateIOS for react-native",
+  "main": "DeviceState.ios.js",
+  "license": "MIT",
+  "private": true
+}
